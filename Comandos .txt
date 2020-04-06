@@ -1,8 +1,0 @@
-Comandos REACT
-
-Criar Projeto - npx create-react-app front-omni-stack
-Start projeto - npm start
-
-
-
-Comandos Node -

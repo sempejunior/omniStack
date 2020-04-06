@@ -10,7 +10,7 @@ module.exports = {
     },
 
 
-    async create(reques, response) {
+    async create(request, response) {
         const { name, email, whatsapp, city, uf } = request.body;
 
         const data = request.body;
